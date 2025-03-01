@@ -91,7 +91,7 @@ ValuTime automatically saves your data. If you believe you've lost data:
 We're constantly working to improve ValuTime. If you have suggestions for new features or encounter any bugs:
 
 1. **GitHub Issues**: Submit detailed bug reports or feature requests through our [GitHub Issues page](https://github.com/yourusername/valutime/issues)
-2. **Email**: Send your feedback to [support@valutime.app](mailto:support@valutime.app)
+2. **Email**: Send your feedback to [mailto:bogdan.shoyat@gmail.com](mailto:bogdan.shoyat@gmail.com)
 
 When reporting bugs, please include:
 
@@ -104,8 +104,7 @@ When reporting bugs, please include:
 
 If you need additional help, you can reach us through:
 
-- **Email**: [support@valutime.app](mailto:support@valutime.app)
-- **Twitter**: [@ValuTimeApp](https://twitter.com/ValuTimeApp)
+- **Email**: [mailto:bogdan.shoyat@gmail.com](mailto:mailto:bogdan.shoyat@gmail.com)
 
 We typically respond within 1-2 business days.
 
